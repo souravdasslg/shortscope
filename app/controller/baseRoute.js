@@ -25,5 +25,9 @@ exports.controller = function (app,passport) {
         res.render('team');
     });
 
+    router.get('/about',function (req,res){
+        res.render('about');
+    });
+
     app.use('/',router);
 };
