@@ -18,7 +18,7 @@
     "mongoose-paginate": "^5.0.3",
     "morgan": "latest",
     "passport": "^0.4.0",
-    "passport-facebook": "^2.1.1",
+    "passport-facebook": "^3.0.0",
     "passport-google-oauth": "^2.0.0",
     "passport-local": "^1.0.0",
     "serve-favicon": "latest",
